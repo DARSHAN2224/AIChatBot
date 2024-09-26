@@ -23,7 +23,6 @@ link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://dars
         - The below options will be show
             
             ![image](https://github.com/user-attachments/assets/20c2a3f8-d72e-48b1-a8ae-65dcf45cb09e)
-(https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00f2e3f9-9819-4e20-9e40-6d0920ca6361/Untitled.png)
             
         - Click on API
 
@@ -91,7 +90,6 @@ link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://dars
             - On Top Right Side you can see the icon
             
             ![image](https://github.com/user-attachments/assets/cd023bf3-9185-4f86-ae38-7bb8e4b990b3)
-(https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00c4bc8e-09d2-4ed9-a9da-9cfcee48cfb8/Untitled.png)
             
             - Click on Embed this space
             - You will get different options to embed
