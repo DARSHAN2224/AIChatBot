@@ -1,4 +1,4 @@
-link of the chap bot: ![Untitled](https://darshan2224.github.io/AIChatBot/)
+link of the chap bot: click here to open chat bot==> ![AI Chat Bot](https://darshan2224.github.io/AIChatBot/)
 ## Nutz and Bolts for Generative AI Applications
 
 - Google Colab:* It is a cloud-based platform by Google designed for running and sharing Jupyter notebooks.
