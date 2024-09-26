@@ -1,7 +1,7 @@
 link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://darshan2224.github.io/AIChatBot/)
 ## Nutz and Bolts for Generative AI Applications
 
-- Google Colab:* It is a cloud-based platform by Google designed for running and sharing Jupyter notebooks.
+- Google Colab: It is a cloud-based platform by Google designed for running and sharing Jupyter notebooks.
     - Steps for creating Google Colab Notebook:
         
         Creating a “Google Colab notebook” is a straightforward process. Here are the steps to create one:
@@ -22,12 +22,13 @@ link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://dars
         - Click Sign In with Google
         - The below options will be show
             
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00f2e3f9-9819-4e20-9e40-6d0920ca6361/Untitled.png)
+            ![image](https://github.com/user-attachments/assets/20c2a3f8-d72e-48b1-a8ae-65dcf45cb09e)
+(https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00f2e3f9-9819-4e20-9e40-6d0920ca6361/Untitled.png)
             
         - Click on API
 
 - Pinecone: A scalable vector database service designed for efficient similarity search in high-dimensional data.
-    - Steps for creating a Pinecone Account:*
+    - Steps for creating a Pinecone Account:
         
         Here are the general steps to create a Pinecone account:
         
@@ -45,7 +46,7 @@ link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://dars
         - Since you don’t have an account, click on the Sign Up button
         - Click on Sign Up with Google
         - Account will be created
-        - *How to Clone a Voice in PlayHT:*
+        - *How to Clone a Voice in PlayHT:
             
             Here's a general outline of the steps involved in voice cloning in PlayHT:
             
@@ -89,7 +90,8 @@ link of the chap bot: click here to open chat bot ==> [AI Chat Bot](https://dars
             - Open the the space
             - On Top Right Side you can see the icon
             
-            ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00c4bc8e-09d2-4ed9-a9da-9cfcee48cfb8/Untitled.png)
+            ![image](https://github.com/user-attachments/assets/cd023bf3-9185-4f86-ae38-7bb8e4b990b3)
+(https://prod-files-secure.s3.us-west-2.amazonaws.com/cc512d89-3069-4d3e-b277-9ef4d98ce8cf/00c4bc8e-09d2-4ed9-a9da-9cfcee48cfb8/Untitled.png)
             
             - Click on Embed this space
             - You will get different options to embed
